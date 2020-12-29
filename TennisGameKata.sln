@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGameKata", "TennisGameKata\TennisGameKata.csproj", "{798E0CF2-CD69-4F31-8507-81C7FCF75270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisGameKata.Test", "TennisGameKata.Test\TennisGameKata.Test.csproj", "{C232779E-0749-45A7-BB6A-E3EAAB9BD470}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{798E0CF2-CD69-4F31-8507-81C7FCF75270}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{798E0CF2-CD69-4F31-8507-81C7FCF75270}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{798E0CF2-CD69-4F31-8507-81C7FCF75270}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{798E0CF2-CD69-4F31-8507-81C7FCF75270}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C232779E-0749-45A7-BB6A-E3EAAB9BD470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C232779E-0749-45A7-BB6A-E3EAAB9BD470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C232779E-0749-45A7-BB6A-E3EAAB9BD470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C232779E-0749-45A7-BB6A-E3EAAB9BD470}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30A7BCA7-3CAE-49F9-82F3-ECC51456E574}
+	EndGlobalSection
+EndGlobal
