@@ -24,7 +24,7 @@ namespace TennisGameKata
             {
                 if (playerOne == "adv")
                 {
-                    if (playerTwo == "adv")// both players have reached advantage the score goes back to Deuce
+                    if (playerTwo == "adv")// both players have reached advantage so the score goes back to Deuce
                     {
                         playerOne = "40";
                         playerTwo = "40";
